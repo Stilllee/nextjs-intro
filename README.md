@@ -7,7 +7,7 @@
 ### #1 FRAMEWORK OVERVIEW
 
 - [x] #1.0 Library vs Framework
-- [ ] #1.1 Pages
+- [x] #1.1 Pages
 - [ ] #1.2 Static Pre Rendering
 - [ ] #1.3 Routing
 - [ ] #1.4 CSS Modules
