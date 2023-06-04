@@ -12,7 +12,7 @@
 - [x] #1.3 Routing
 - [x] #1.4 CSS Modules
 - [x] #1.5 Styles JSX
-- [ ] #1.6 Custom App
+- [x] #1.6 Custom App
 - [ ] #1.7 Recap
 
 ---
