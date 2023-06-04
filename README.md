@@ -9,7 +9,7 @@
 - [x] #1.0 Library vs Framework
 - [x] #1.1 Pages
 - [x] #1.2 Static Pre Rendering
-- [ ] #1.3 Routing
+- [x] #1.3 Routing
 - [ ] #1.4 CSS Modules
 - [ ] #1.5 Styles JSX
 - [ ] #1.6 Custom App
