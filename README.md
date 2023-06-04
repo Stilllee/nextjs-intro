@@ -11,7 +11,7 @@
 - [x] #1.2 Static Pre Rendering
 - [x] #1.3 Routing
 - [x] #1.4 CSS Modules
-- [ ] #1.5 Styles JSX
+- [x] #1.5 Styles JSX
 - [ ] #1.6 Custom App
 - [ ] #1.7 Recap
 
