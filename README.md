@@ -13,13 +13,13 @@
 - [x] #1.4 CSS Modules
 - [x] #1.5 Styles JSX
 - [x] #1.6 Custom App
-- [ ] #1.7 Recap
+- [x] #1.7 Recap
 
 ---
 
 ### #2 PRACTICE PROJECT
 
-- [ ] #2.0 Patterns
+- [x] #2.0 Patterns
 - [ ] #2.1 Fetching Data
 - [ ] #2.2 Redirect and Rewrite
 - [ ] #2.3 Server Side Rendering
