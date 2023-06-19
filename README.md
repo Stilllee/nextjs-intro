@@ -26,5 +26,5 @@
 - [x] #2.4 Recap
 - [x] #2.5 Dynamic Routes
 - [x] #2.6 Movie Detail
-- [ ] #2.7 Catch All
+- [x] #2.7 Catch All
 - [ ] #2.8 404 Pages
