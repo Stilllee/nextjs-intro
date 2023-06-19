@@ -24,7 +24,7 @@
 - [x] #2.2 Redirect and Rewrite
 - [x] #2.3 Server Side Rendering
 - [x] #2.4 Recap
-- [ ] #2.5 Dynamic Routes
+- [x] #2.5 Dynamic Routes
 - [ ] #2.6 Movie Detail
 - [ ] #2.7 Catch All
 - [ ] #2.8 404 Pages
