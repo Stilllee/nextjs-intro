@@ -29,7 +29,7 @@ export default function Home({ results }) {
           <img src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`} />
           <h4>
             <Link
-              href={{
+              as={{
                 pathname: `/movies/${movie.id}`,
                 query: {
                   title: movie.poster_path,

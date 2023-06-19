@@ -25,6 +25,6 @@
 - [x] #2.3 Server Side Rendering
 - [x] #2.4 Recap
 - [x] #2.5 Dynamic Routes
-- [ ] #2.6 Movie Detail
+- [x] #2.6 Movie Detail
 - [ ] #2.7 Catch All
 - [ ] #2.8 404 Pages
