@@ -23,7 +23,7 @@
 - [x] #2.1 Fetching Data
 - [x] #2.2 Redirect and Rewrite
 - [x] #2.3 Server Side Rendering
-- [ ] #2.4 Recap
+- [x] #2.4 Recap
 - [ ] #2.5 Dynamic Routes
 - [ ] #2.6 Movie Detail
 - [ ] #2.7 Catch All
